@@ -1,0 +1,14 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Signatures"
+		{
+			"CEnvSoundscape::UpdateForPlayer"
+			{
+				"library"		"server"
+				"linux"			"@_ZN14CEnvSoundscape15UpdateForPlayerER11ss_update_t"
+			}
+		}
+	}
+}
